@@ -1,0 +1,5 @@
+token=NTkxMTgzMDM2MjgwODY0Nzk3.XQtG7g.wcY_dCfGHUfDxZztZpSxX61zw4c
+owner=532405937667833887
+prefix=E
+game=Break| Ehelp
+stayinchannel=true
