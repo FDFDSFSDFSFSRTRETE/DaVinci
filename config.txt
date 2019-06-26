@@ -1,5 +1,5 @@
-token=NTkzNTE3NDE5MTg0NzgzMzYz.XRPCTA.uNhFE-Krpb1B9f89xSYWuAFrof4
+token=NTkzNTI4OTY4NDE4ODIwMTEy.XRPNHw.YeiVYzP14mc6nIgsy2QhRjrKPw8
 owner=573517050241351691
-prefix=R
-game=Break| Rhelp
+prefix=T
+game=Break| Thelp
 stayinchannel=true
