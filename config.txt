@@ -1,4 +1,4 @@
-token=NTkzMzk5ODIyMTExOTk3OTU1.XRNUtw.lo1aXIPWog8_NxlVWa2RclEj-bI
+token=NTkzNTE3NDE5MTg0NzgzMzYz.XRPCTA.uNhFE-Krpb1B9f89xSYWuAFrof4
 owner=573517050241351691
 prefix=R
 game=Break| Rhelp
